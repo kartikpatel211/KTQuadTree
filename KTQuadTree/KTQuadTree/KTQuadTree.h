@@ -2,7 +2,7 @@
 //  KTQuadTree.h
 //  KTQuadTree
 //
-//  Created by Paresh Patel on 10/7/16.
+//  Created by Kartik Patel on 10/7/16.
 //  Copyright © 2016 KTPatel. All rights reserved.
 //
 
